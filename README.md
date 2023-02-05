@@ -1,7 +1,7 @@
 # dev-contracts-spCoin
 
 # SETUP
-clone this project to a local machine
+clone this project to a local machine<BR>
 Install the node package libries
 npm i
 
