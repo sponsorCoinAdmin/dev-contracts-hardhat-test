@@ -1,13 +1,19 @@
 # dev-contracts-spCoin
 
-// TESTING
+# SETUP
+clone this project to a local machine
+Install the node package libries
+npm i
 
-// VISUAL STUDIO CODE INSTALL PLUGIN Nomic Foundation
+# TESTING
 
-// INSTALLING HARDHAT
+# VISUAL STUDIO CODE INSTALL PLUGIN
+Nomic Foundation
+
+# INSTALLING HARDHAT
 npm install --save-dev hardhat
 
-//REQUIRED SUPPORT PACKAGES 
+# REQUIRED SUPPORT PACKAGES 
  npm install --save-dev @nomicfoundation/hardhat-toolbox 
  npm install --save-dev @nomiclabs/hardhat-waffle 'ethereum-waffle@^3.0.0' @nomiclabs/hardhat-ethers 'ethers@^5.0.0'
 
@@ -15,5 +21,5 @@ Add the following code snippet at the top of your hardhat.config.js file require
 
 npm audit fix --force
 
-// IMPORTANT HARDHAT GLOBAL COMMANDS
+# IMPORTANT HARDHAT GLOBAL COMMANDS
 npx hardhat help
